@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=dertovich&style=flat-square&color=blue" alt=""/>
 </div>
